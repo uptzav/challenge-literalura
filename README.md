@@ -40,4 +40,3 @@ Este proyecto es parte del desafío **Literalura** en el cual se busca crear una
 
 - 👨‍💻 **Luis Zavala**
 
-Para más detalles, visita el [repositorio del proyecto](https://github.com/uptzav/challenge-literalura).
